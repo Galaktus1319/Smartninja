@@ -1,0 +1,58 @@
+p {
+color: dodgerblue;
+}
+
+#red {
+color:red;
+}
+
+#blue {
+color:blue;
+}
+
+#white {
+color:white;
+}
+
+.red1 {
+color: red;
+font: arial;
+}
+
+.titulogalactus:hover {
+border: 3px blue solid
+}
+
+#background {
+background-color: LightGray;
+height: auto;
+width: auto;
+}
+
+#navigation {
+background-color: DodgerBlue;
+height: 50px;
+width: 200px;
+text-align: center;
+}
+
+.right {
+color: white;
+background-color: dodgerblue;
+height: 5000px;
+width: 500px;
+position: relative;
+right: 0px;
+left: 50px;
+top: 10px;
+float: right;
+
+}
+
+.image {
+  padding: 5px;
+  height: 200px;
+}
+.image:hover {
+  border: 5px blue solid;
+}
