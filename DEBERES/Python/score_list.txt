@@ -1,1 +1,1 @@
-[{"Usuario": "John Salchichon", "Intentos": 8, "Fecha": "2019-07-31 16:21:47.001187", "Fallos": [25, 15, 10, 5, 1, 2, 3], "Respuesta": 4}]
+[{"Usuario": "JOE", "Intentos": 6, "Fecha": "2019-08-07 15:45:31.575577", "Fallos": [50, 20, 30, 40, 45], "Respuesta": 43}]
